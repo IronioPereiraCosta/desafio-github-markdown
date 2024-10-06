@@ -1,8 +1,9 @@
+Ironio Pereira Costa:(colaboração em projeto)
 <center><h1>Git & GitHub - Explorando Colaboração e Markdown </h1></center>
 
 #### >> DESAFIO DE PROJETO <<
 
-Olá, visitante 👽! Sejam bem-vindos(as)! Espero que a sua jornada até aqui tenha sido repleta de grandes aprendizados. Agora, para testarmos tudo o que aprendemos sobre o Git e GitHub, seus processos de colaboração e a incrível linguagem Markdown 💞, proponho a vocês um super desafio. Vamos então entender o que teremos que fazer?
+Olá, visitante 👌👽! Sejam bem-vindos(as)! Espero que a sua jornada até aqui tenha sido repleta de grandes aprendizados. Agora, para testarmos tudo o que aprendemos sobre o Git e GitHub, seus processos de colaboração e a incrível linguagem Markdown 🪐💞, proponho a vocês um super desafio. Vamos então entender o que teremos que fazer?
 
 **Objetivos:**
 
@@ -35,4 +36,4 @@ Crie branches para o seu projeto e realizem merge das alterações. Treinem os c
 
 Ahhh e quero ver o README do Perfil bem legal ein?! 😎
 
-Então... bons estudos!!
+Então... bons estudos!
